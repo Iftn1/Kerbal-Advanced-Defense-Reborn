@@ -1,4 +1,4 @@
-Kerbal Advanced Defense Reborn (KAD)
+# Kerbal Advanced Defense (KAD)
 
 A collection of realistic missile systems for BDArmory Plus.
 <img width="1358" height="971" alt="image" src="https://github.com/user-attachments/assets/57363a89-b287-4184-b8a4-7927cc1f8447" />
@@ -6,11 +6,11 @@ A collection of realistic missile systems for BDArmory Plus.
 
 Dependencies
 ------------
-- BDArmory Plus (https://forum.kerbalspaceprogram.com/topic/209092-19x-112x-bdarmory-plus-bda-v1710-2024-09-04/)
+- [BDArmory Plus](https://forum.kerbalspaceprogram.com/topic/209092-19x-112x-bdarmory-plus-bda-v1710-2024-09-04/)
 
 Installation
 ------------
-Place the "KerbalAdvancedDefense" folder into your GameData directory.
+Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 
 Current Arsenal
 ---------------
@@ -59,7 +59,8 @@ Notes
 - Some missiles require radar or targeting pod equipment on the launch craft (SARH, laser-guided types).
 - Feedback and contributions are welcome!
 
-Links
------
-- GitHub Repository: https://github.com/Iftn1/KerbalAdvancedDefense
-- Issue Tracker: https://github.com/Iftn1/KerbalAdvancedDefense/issues
+## Localization
+
+- English (en-us)
+- 简体中文 (zh-cn)
+
