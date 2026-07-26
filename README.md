@@ -41,9 +41,7 @@ Current Arsenal
 
 
 ### Air-to-Ground  
-- AGM-65G Maverick
-- CM-502KG
-- "Tiny Tim" Rocket
+
 
 ### Air-to-Air  
 - PL-5EII
