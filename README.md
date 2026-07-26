@@ -1,6 +1,7 @@
 Kerbal Advanced Defense Reborn (KAD)
 
 A collection of realistic missile systems for BDArmory Plus.
+<img width="1371" height="744" alt="image" src="https://github.com/user-attachments/assets/16684488-5f3c-4cdc-bbd7-0f305cb764c9" />
 
 
 Dependencies
