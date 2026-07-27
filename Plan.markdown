@@ -42,7 +42,8 @@
 - 🟥BGM-109 Tomahawk    -🔵
 - 🟥P-500/SS-N-12       -🔵
 - 🟥P-700/SS-N-19       -🔵
-- 🟥AGM-119 Penguin     -🔵 
+- 🟥AGM-119 Penguin     -🔵
+- 🟥YJ-81K              -🔵
 
 ### Anti-Radiation  
 - 🟩CM-102              -🟢After testing, it demonstrated excellent performance.
@@ -70,6 +71,12 @@
 - 🟥R-27                -🔵
 - 🟥R-24                -🔵
 - 🟥R-33                -🔵
+- 🟥AAM-3               -🔵
+- 🟥AIM-54C+            -🔵
+- 🟥R.511               -🔵
+- 🟥R.550 Magic2        -🔵
+- 🟥AIM26B-NuclearFalcon-🔵
+- 🟥TY-90               -🔵
 
 ### Bombs  
 - 🟥AGM-62A             -🔵
