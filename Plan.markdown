@@ -77,6 +77,8 @@
 - 🟥R.550 Magic2        -🔵
 - 🟥AIM26B-NuclearFalcon-🔵
 - 🟥TY-90               -🔵
+- 🟥R-13M/M1            -🔵
+- 🟥R-3R/S              -🔵
 
 ### Bombs  
 - 🟥AGM-62A             -🔵
