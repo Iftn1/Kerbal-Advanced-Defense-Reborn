@@ -17,22 +17,37 @@
 - 🟩Type 81 Tan-SAM     -🟡After testing, some issues were found.
 - 🟩9M38 Buk            -🟢After testing, it demonstrated excellent performance.
 - 🟩9M37M Strela-10     -🟢After testing, it demonstrated excellent performance.
+- 🟥FB-10A              -🔵
+- 🟥RIM-8               -🔵
+- 🟥RIM-24              -🔵
+- 🟥RIM-2               -🔵
+- 🟥S-75/SA-2           -🔵
+- 🟥S-25/SA-1           -🔵
+- 🟥CIM-10 Bomarc       -🔵
+- 🟥MIM-23 Hawk         -🔵
+- 🟥2K12 Kub/SA-6       -🔵
+- 🟥9M330 Tor/SA-15     -🔵
 
 ### Surface-to-Surface  
 - 🟥9K79_Tochka         -🔴Model reset, data reset
 - 🟥RW61_380mm          -🔴Model reset, data reset
+- 🟥9K72/SS-1           -🔵
 
 ### Anti-Ship  
 - 🟥AGM-84D             -🟡Model reset complete, data reset complete, currently testing.
 - 🟥SS-N-3B             -🔴Model awaiting reset; data reset complete.
 - 🟥YJ-83K              -🔴Model awaiting reset; data reset complete.
 - 🟥SeaEagle            -🔴Model awaiting reset; data reset complete.
+- 🟥SS-N-2              -🔵
+- 🟥BGM-109 Tomahawk    -🔵
+- 🟥P-500/SS-N-12       -🔵
+- 🟥P-700/SS-N-19       -🔵
+- 🟥AGM-119 Penguin     -🔵 
 
 ### Anti-Radiation  
 - 🟩CM-102              -🟢After testing, it demonstrated excellent performance.
 - 🟩Kh-58U              -🟡More testing is needed.
 - 🟩Kh-58               -🟡More testing is needed.
-
 
 ### Air-to-Ground  
 - 🟥AGM65G_Maverick     -🟡Model reset complete, data need test.
@@ -52,8 +67,12 @@
 - 🟥R40R/RD             -🟡Modeling complete, data need test.
 - 🟥R40T/TD             -🟡Modeling complete, data need test.
 - 🟥R60M                -🔵
+- 🟥R-27                -🔵
+- 🟥R-24                -🔵
+- 🟥R-33                -🔵
 
 ### Bombs  
-
+- 🟥AGM-62A             -🔵
 
 ### Radars  
+- 🟥MiG-25 radar        -🔵
