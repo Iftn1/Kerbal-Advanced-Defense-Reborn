@@ -58,6 +58,7 @@ Notes
 - This is a pre-release. Models and configs are being continuously refined.
 - Some missiles require radar or targeting pod equipment on the launch craft (SARH, laser-guided types).
 - Feedback and contributions are welcome!
+- [查看目前进度|Current Progress](Plan.md)
 
 ## Localization
 
