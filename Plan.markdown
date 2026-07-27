@@ -49,8 +49,9 @@
 - 🟩Red Top             -🟡More testing is needed.
 - 🟥PL-15               -🟡Model reset complete, data reset complete, currently testing.
 - 🟥R-73                -🔴Model reset, data reset.
-- 🟥R40R/RD             -🟡Model reset complete, data need test.
-- 🟥R40T/TD             -🟡Model reset complete, data need test.
+- 🟥R40R/RD             -🟡Modeling complete, data need test.
+- 🟥R40T/TD             -🟡Modeling complete, data need test.
+- 🟥R60M                -🔵
 
 ### Bombs  
 
