@@ -47,7 +47,7 @@
 - 🟩PL-5EII             -🟢After testing, it demonstrated excellent performance.
 - 🟩Super 530D          -🟢After testing, it demonstrated excellent performance.
 - 🟩Red Top             -🟡More testing is needed.
-- 🟥PL-15               -🔴Model reset, data reset.
+- 🟥PL-15               -🟡Model reset complete, data reset complete, currently testing.
 - 🟥R-73                -🔴Model reset, data reset.
 
 ### Bombs  
