@@ -65,9 +65,10 @@
 - 🟩Red Top             -🟡More testing is needed.
 - 🟥PL-15               -🟡Model reset complete, data reset complete, currently testing.
 - 🟥R-73                -🔴Model reset, data reset.
-- 🟥R40R/RD             -🟡Modeling complete, data need test.
-- 🟥R40T/TD             -🟡Modeling complete, data need test.
+- 🟥R40R/RD             -🟡Modeling complete, cfg written
+- 🟥R40T/TD             -🟡Modeling complete, cfg written
 - 🟥R60M                -🔵
+- 🟥R60                 -🟡Modeling complete, cfg written
 - 🟥R-27                -🔵
 - 🟥R-24                -🔵
 - 🟥R-33                -🔵
@@ -84,4 +85,4 @@
 - 🟥AGM-62A             -🔵
 
 ### Radars  
-- 🟥MiG-25 radar        -🔵
+- 🟥MiG-25 radar        -🟡Modeling complete, cfg written
