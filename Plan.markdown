@@ -67,7 +67,7 @@
 - 🟥R-73                -🔴Model reset, data reset.
 - 🟥R40R/RD             -🟡Modeling complete, cfg written
 - 🟥R40T/TD             -🟡Modeling complete, cfg written
-- 🟥R60M                -🔵
+- 🟥R60M/MK             -🟡Modeling complete, cfg written
 - 🟥R60                 -🟡Modeling complete, cfg written
 - 🟥R-27                -🔵
 - 🟥R-24                -🔵
