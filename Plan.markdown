@@ -65,10 +65,10 @@
 - 🟩Red Top             -🟡More testing is needed.
 - 🟥PL-15               -🟡Model reset complete, data reset complete, currently testing.
 - 🟥R-73                -🔴Model reset, data reset.
-- 🟥R40R/RD             -🟡Modeling complete, cfg written
-- 🟥R40T/TD             -🟡Modeling complete, cfg written
-- 🟥R60M/MK             -🟡Modeling complete, cfg written
-- 🟥R60                 -🟡Modeling complete, cfg written
+- 🟥R40RD               -🟡Modeling complete, cfg complete
+- 🟥R40TD               -🟡Modeling complete, cfg complete
+- 🟥R60MK               -🟡Modeling complete, cfg complete
+- 🟥R60K                -🟡Modeling complete, cfg complete
 - 🟥R-27                -🔵
 - 🟥R-24                -🔵
 - 🟥R-33                -🔵
