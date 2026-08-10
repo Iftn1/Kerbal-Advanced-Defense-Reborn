@@ -63,12 +63,12 @@
 - 🟩PL-5EII             -🟢After testing, it demonstrated excellent performance.
 - 🟩Super 530D          -🟢After testing, it demonstrated excellent performance.
 - 🟩Red Top             -🟡More testing is needed.
-- 🟥PL-15               -🟡Model reset complete, data reset complete, currently testing.
+- 🟩PL-15               -🟢Completed, feedback needed
 - 🟥R-73                -🔴Model reset, data reset.
-- 🟥R40RD               -🟡Modeling complete, cfg complete
-- 🟥R40TD               -🟡Modeling complete, cfg complete
-- 🟥R60MK               -🟡Modeling complete, cfg complete
-- 🟥R60K                -🟡Modeling complete, cfg complete
+- 🟩R40RD               -🟢Completed, feedback needed
+- 🟩R40TD               -🟢Completed, feedback needed
+- 🟩R60MK               -🟢Completed, feedback needed
+- 🟩R60K                -🟢Completed, feedback needed
 - 🟥R-27                -🔵
 - 🟥R-24                -🔵
 - 🟥R-33                -🔵
