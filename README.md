@@ -2,6 +2,7 @@
 
 A collection of realistic missile systems for BDArmory Plus.
 <img width="1358" height="971" alt="image" src="https://github.com/user-attachments/assets/57363a89-b287-4184-b8a4-7927cc1f8447" />
+<img width="1018" height="1014" alt="image" src="https://github.com/user-attachments/assets/19534860-622e-4c02-be37-7ebddb4650aa" />
 
 
 Dependencies
