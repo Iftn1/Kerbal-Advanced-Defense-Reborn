@@ -91,4 +91,4 @@
 - 🟥AGM-62A             -🔵
 
 ### Radars  
-- 🟥MiG-25 radar        -🟡Modeling complete, cfg written
+- 🟩MiG-25 radar        -🟢Completed, feedback needed
