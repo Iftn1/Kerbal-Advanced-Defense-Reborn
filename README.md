@@ -47,11 +47,17 @@ Current Arsenal
 - PL-5EII
 - Super 530D
 - Red Top
+- R-40RD
+- R-40TD
+- R-60K
+- R-60MK
+- PL-15
 
 ### Bombs  
 
 
 ### Radars  
+- RP-25M
 
 
 Notes
