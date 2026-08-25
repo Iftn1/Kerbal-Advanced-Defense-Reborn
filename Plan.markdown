@@ -69,7 +69,7 @@
 - 🟩R40TD               -🟢Completed, feedback needed
 - 🟩R60MK               -🟢Completed, feedback needed
 - 🟩R60K                -🟢Completed, feedback needed
-- 🟩R-40R/T             -🟡Modeling completed, need data.
+- 🟥R-40R/T             -🟡Modeling completed, need data.
 - 🟥R-27                -🔵
 - 🟥R-24                -🔵
 - 🟥R-33                -🔵
