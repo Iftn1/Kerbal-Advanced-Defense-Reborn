@@ -69,6 +69,7 @@
 - 🟩R40TD               -🟢Completed, feedback needed
 - 🟩R60MK               -🟢Completed, feedback needed
 - 🟩R60K                -🟢Completed, feedback needed
+- 🟩R-40R/T             -🟡Modeling completed, need data.
 - 🟥R-27                -🔵
 - 🟥R-24                -🔵
 - 🟥R-33                -🔵
@@ -79,7 +80,7 @@
 - 🟥AIM26B-NuclearFalcon-🔵
 - 🟥TY-90               -🔵
 - 🟥R-13M/M1            -🔵
-- 🟥R-3R/S              -🔵
+- 🟥R-3R/S              -🟡In the process of modeling
 - 🟥R-4                 -🔵
 - 🟥R-8                 -🔵
 - 🟥R-13                -🔵
@@ -89,6 +90,8 @@
 
 ### Bombs  
 - 🟥AGM-62A             -🔵
+- 🟥B-61(5kT)           -🟡In the process of modeling
+- 🟥RN28(5kT)           -🟡In the process of modeling
 
 ### Radars  
 - 🟩MiG-25 radar        -🟢Completed, feedback needed
