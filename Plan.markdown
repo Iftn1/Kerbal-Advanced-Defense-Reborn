@@ -92,6 +92,13 @@
 - 🟥AGM-62A             -🔵
 - 🟥B-61(5kT)           -🟡Modeling completed, need data.
 - 🟥RN28(5kT)           -🟡In the process of modeling
+- 🟥Red Beard           -🔵
+
+### WarHead
+- 🟥W80                 -🔵
+- 🟥W88                 -🔵
+- 🟥W48                 -🔵
+- 🟥ICBMSS-6“Sapwood”   -🔵
 
 ### Radars  
 - 🟩MiG-25 radar        -🟢Completed, feedback needed
