@@ -95,6 +95,7 @@
 - 🟩R40RD               -🟢Completed, feedback needed
 - 🟩R40TD               -🟢Completed, feedback needed
 
+- 🟥R-37                -🔵
 - 🟥R-37M               -🔵
 
 - 🟥R-33                -🔵
@@ -113,6 +114,7 @@
 - 🟥R-23T               -🔵
 - 🟥R-24R               -🔵
 - 🟥R-24T               -🔵
+- 🟥R-24M               -🔵
 
 - 🟥R-5MS               -🔵
 - 🟥R-55                -🔵
@@ -155,5 +157,18 @@
 
 ### Radars
 
-- 🟩RP-25M radar        -🟢Completed, feedback needed
+- 🟥RP-S radar          -🔵
+- 🟥RP-SM radar         -🔵
+
+- 🟥RP-15 radar         -🔵
+- 🟥RP-26M radar        -🔵
+
 - 🟥RP-25 radar         -🔵
+- 🟩RP-25M radar        -🟢Completed, feedback needed
+
+- 🟥RP-23D-III radar    -🔵
+- 🟥RP-23ML radar       -🔵
+- 🟥RP-23MLA-II radar   -🔵
+
+- 🟥RP-22SM radar       -🔵
+- 🟥RP-21M radar        -🔵
