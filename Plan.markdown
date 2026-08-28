@@ -130,8 +130,8 @@
 - 🟥R-4MR               -🔵
 - 🟥R-4MT               -🔵
 
-- 🟥R-3R                -🟡Modeling completed, need data.
-- 🟥R-3S                -🟡Modeling completed, need data.
+- 🟩R-3R                -🟢Completed, feedback needed
+- 🟩R-3S                -🟢Completed, feedback needed
 - 🟥R-13M1              -🔵
 - 🟥R-13M               -🔵
 
@@ -165,15 +165,15 @@
 - 🟥RP-15 radar         -🔵
 - 🟥RP-26M radar        -🔵
 
-- 🟥RP-25 radar         -🟡Modeling completed, need data.
+- 🟩RP-25 radar         -🟢Completed, feedback needed
 - 🟩RP-25M radar        -🟢Completed, feedback needed
 
 - 🟥RP-23D-III radar    -🔵
 - 🟥RP-23ML radar       -🔵
 - 🟥RP-23MLA-II radar   -🔵
 
-- 🟥RP-22SM radar       -🟡Modeling completed, need data.
-- 🟥RP-21M radar        -🟡Modeling completed, need data.
+- 🟩RP-22SM radar       -🟢Completed, feedback needed
+- 🟩RP-21M radar        -🟢Completed, feedback needed
 
 ### IRST
 
