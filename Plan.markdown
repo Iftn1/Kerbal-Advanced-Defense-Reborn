@@ -116,7 +116,8 @@
 - 🟥R-24T               -🔵
 - 🟥R-24M               -🔵
 
-- 🟥R-5MS               -🔵
+- 🟥RS-1U               -🔵
+- 🟥RS-2U               -🔵
 - 🟥R-55                -🔵
 
 - 🟥R-8MR               -🔵
@@ -160,15 +161,23 @@
 - 🟥RP-S radar          -🔵
 - 🟥RP-SM radar         -🔵
 
+- 🟥RP-11 radar         -🔵
 - 🟥RP-15 radar         -🔵
 - 🟥RP-26M radar        -🔵
 
-- 🟥RP-25 radar         -🔵
+- 🟥RP-25 radar         -🟡Modeling completed, need data.
 - 🟩RP-25M radar        -🟢Completed, feedback needed
 
 - 🟥RP-23D-III radar    -🔵
 - 🟥RP-23ML radar       -🔵
 - 🟥RP-23MLA-II radar   -🔵
 
-- 🟥RP-22SM radar       -🔵
-- 🟥RP-21M radar        -🔵
+- 🟥RP-22SM radar       -🟡Modeling completed, need data.
+- 🟥RP-21M radar        -🟡Modeling completed, need data.
+
+### IRST
+
+- 🟥TP-23 IRST          -🔵
+- 🟥TP-23M IRST         -🔵
+- 🟥TP-26 IRST          -🔵
+- 🟥TP-26Sh1 IRST       -🔵
