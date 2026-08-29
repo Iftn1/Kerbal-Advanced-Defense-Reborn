@@ -3,6 +3,8 @@
 A collection of realistic missile systems for BDArmory Plus.
 <img width="1358" height="971" alt="image" src="https://github.com/user-attachments/assets/57363a89-b287-4184-b8a4-7927cc1f8447" />
 <img width="1018" height="1014" alt="image" src="https://github.com/user-attachments/assets/19534860-622e-4c02-be37-7ebddb4650aa" />
+<img width="1137" height="904" alt="ad4b05ee7da49ca007c1fd8de63a524e" src="https://github.com/user-attachments/assets/d698f3de-7721-465a-b54d-7345a0f6e633" />
+
 
 
 Dependencies
@@ -36,8 +38,7 @@ Current Arsenal
 
 ### Anti-Radiation  
 - CM-102
-- Kh-58U (AS-11 Kilter)
-- Kh-58
+- Kh-58U
 
 
 ### Air-to-Ground  
@@ -49,6 +50,10 @@ Current Arsenal
 - Red Top
 - R-40RD
 - R-40TD
+- R-40T
+- R-40R
+- R-3S
+- R-3R
 - R-60K
 - R-60MK
 - PL-15
@@ -58,6 +63,9 @@ Current Arsenal
 
 ### Radars  
 - RP-25M
+- RP-25
+- RP-21M
+- RP-22SM
 
 
 Notes
