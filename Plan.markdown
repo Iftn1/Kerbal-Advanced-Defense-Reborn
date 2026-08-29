@@ -144,8 +144,8 @@
 ### Bombs
 
 - 🟥AGM-62A             -🔵
-- 🟥B-61(5kT)           -🟡Modeling completed, need data.
-- 🟥RN28(5kT)           -🟡In the process of modeling
+- 🟥B-61(5kT)           -🟡All completed, need test.
+- 🟥RN28(5kT)           -🟡All completed, need test.
 - 🟥Red Beard           -🔵
 
 ### WarHead
