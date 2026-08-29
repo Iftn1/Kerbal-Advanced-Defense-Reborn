@@ -61,8 +61,7 @@
 ### Anti-Radiation
 
 - 🟩CM-102              -🟢After testing, it demonstrated excellent performance.
-- 🟩Kh-58U              -🟡More testing is needed.
-- 🟩Kh-58               -🟡More testing is needed.
+- 🟩Kh-58U              -🟢Completed, feedback needed
 
 ### Air-to-Ground
 
