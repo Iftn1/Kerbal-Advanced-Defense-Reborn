@@ -1,12 +1,23 @@
-## 🟥-Not included in the download package.
-## 🟩-Currently included in the download package.
-### 🔴-This indicates a serious problem, has not started, or has failed.
-### 🟡-Indicates in progress, with warnings, or under testing.
-### 🟢-This indicates completion, excellent performance, or passing.
-### 🔵-Indicating the plan.
-### ⚪-This indicates unknown, untested, or no data.
+# Plan
+
+## 🟥-Not included in the download package
+
+## 🟩-Currently included in the download package
+
+### 🔴-This indicates a serious problem, has not started, or has failed
+
+### 🟡-Indicates in progress, with warnings, or under testing
+
+### 🟢-This indicates completion, excellent performance, or passing
+
+### 🔵-Indicating the plan
+
+### ⚪-This indicates unknown, untested, or no data
+
 ----
-### Surface-to-Air  
+
+### Surface-to-Air
+
 - 🟩9M33 Osa            -🟡The actual flight performance is unknown as it has not undergone extensive testing.
 - 🟩FIM-92 Stinger      -🔴There is a serious problem; it may not be able to launch normally.
 - 🟩IRIS-T SLM          -🟢After testing, it demonstrated excellent performance.
@@ -28,12 +39,14 @@
 - 🟥2K12 Kub/SA-6       -🔵
 - 🟥9M330 Tor/SA-15     -🔵
 
-### Surface-to-Surface  
+### Surface-to-Surface
+
 - 🟥9K79_Tochka         -🔴Model reset, data reset
 - 🟥RW61_380mm          -🔴Model reset, data reset
 - 🟥9K72/SS-1           -🔵
 
 ### Anti-Ship  
+
 - 🟥AGM-84D             -🟡Model reset complete, data reset complete, currently testing.
 - 🟥SS-N-3B             -🔴Model awaiting reset; data reset complete.
 - 🟥YJ-83K              -🔴Model awaiting reset; data reset complete.
@@ -45,12 +58,13 @@
 - 🟥AGM-119 Penguin     -🔵
 - 🟥YJ-81K              -🔵
 
-### Anti-Radiation  
-- 🟩CM-102              -🟢After testing, it demonstrated excellent performance.
-- 🟩Kh-58U              -🟡More testing is needed.
-- 🟩Kh-58               -🟡More testing is needed.
+### Anti-Radiation
 
-### Air-to-Ground  
+- 🟩CM-102              -🟢After testing, it demonstrated excellent performance.
+- 🟩Kh-58U              -🟢Completed, feedback needed
+
+### Air-to-Ground
+
 - 🟥AGM65G_Maverick     -🟡Model reset complete, data need test.
 - 🟥AGM179_JAGM         -🔴Model reset, data reset.
 - 🟥BlueArrow-11A       -🔴Model reset, data reset.
@@ -59,46 +73,110 @@
 - 🟥SpikeLR2            -🔴Model reset, data reset.
 - 🟥TinyTim             -🟡Model reset complete, data need test.
 
-### Air-to-Air  
+### Air-to-Air
+
 - 🟩PL-5EII             -🟢After testing, it demonstrated excellent performance.
 - 🟩Super 530D          -🟢After testing, it demonstrated excellent performance.
 - 🟩Red Top             -🟡More testing is needed.
 - 🟩PL-15               -🟢Completed, feedback needed
+
+- 🟥R-77                -🔵
+- 🟥R-77-1              -🔵
+- 🟥R-77M               -🔵
+
 - 🟥R-73                -🔴Model reset, data reset.
-- 🟩R40RD               -🟢Completed, feedback needed
-- 🟩R40TD               -🟢Completed, feedback needed
+- 🟥R-74                -🔵
+
 - 🟩R60MK               -🟢Completed, feedback needed
 - 🟩R60K                -🟢Completed, feedback needed
-- 🟥R-40R/T             -🟡Modeling completed, need data.
-- 🟥R-27                -🔵
-- 🟥R-24                -🔵
+- 🟩R-40R               -🟢Completed, feedback needed
+- 🟩R-40T               -🟢Completed, feedback needed
+- 🟩R40RD               -🟢Completed, feedback needed
+- 🟩R40TD               -🟢Completed, feedback needed
+
+- 🟥R-37                -🔵
+- 🟥R-37M               -🔵
+
 - 🟥R-33                -🔵
+- 🟥R-33S               -🔵
+
+- 🟥R-27R               -🔵
+- 🟥R-27T               -🔵
+- 🟥R-27P               -🔵
+- 🟥R-27A               -🔵
+- 🟥R-27ER              -🔵
+- 🟥R-27ET              -🔵
+- 🟥R-27EP              -🔵
+- 🟥R-27EA              -🔵
+
+- 🟥R-23R               -🔵
+- 🟥R-23T               -🔵
+- 🟥R-24R               -🔵
+- 🟥R-24T               -🔵
+- 🟥R-24M               -🔵
+
+- 🟥RS-1U               -🔵
+- 🟥RS-2US              -🔵
+- 🟥R-55                -🔵
+
+- 🟥R-8MR               -🔵
+- 🟥R-8MT               -🔵
+- 🟥R-98MR              -🔵
+- 🟥R-98MT              -🔵
+
+- 🟥R-4R                -🔵
+- 🟥R-4T                -🔵
+- 🟥R-4MR               -🔵
+- 🟥R-4MT               -🔵
+
+- 🟩R-3R                -🟢Completed, feedback needed
+- 🟩R-3S                -🟢Completed, feedback needed
+- 🟥R-13M1              -🔵
+- 🟥R-13M               -🔵
+
 - 🟥AAM-3               -🔵
 - 🟥AIM-54C+            -🔵
 - 🟥R.511               -🔵
 - 🟥R.550 Magic2        -🔵
 - 🟥AIM26B-NuclearFalcon-🔵
 - 🟥TY-90               -🔵
-- 🟥R-13M/M1            -🔵
-- 🟥R-3R/S              -🟡In the process of modeling
-- 🟥R-4                 -🔵
-- 🟥R-8                 -🔵
-- 🟥R-13                -🔵
-- 🟥R-37                -🔵
-- 🟥R-55                -🔵
-- 🟥R-77                -🔵
 
-### Bombs  
+### Bombs
+
 - 🟥AGM-62A             -🔵
-- 🟥B-61(5kT)           -🟡Modeling completed, need data.
-- 🟥RN28(5kT)           -🟡In the process of modeling
+- 🟥B-61(5kT)           -🟡All completed, need test.
+- 🟥RN28(5kT)           -🟡All completed, need test.
 - 🟥Red Beard           -🔵
 
 ### WarHead
+
 - 🟥W80                 -🔵
 - 🟥W88                 -🔵
 - 🟥W48                 -🔵
 - 🟥ICBMSS-6“Sapwood”   -🔵
 
-### Radars  
-- 🟩MiG-25 radar        -🟢Completed, feedback needed
+### Radars
+
+- 🟥RP-S radar          -🔵
+- 🟥RP-SM radar         -🔵
+
+- 🟥RP-11 radar         -🔵
+- 🟥RP-15 radar         -🔵
+- 🟥RP-26M radar        -🔵
+
+- 🟩RP-25 radar         -🟢Completed, feedback needed
+- 🟩RP-25M radar        -🟢Completed, feedback needed
+
+- 🟥RP-23D-III radar    -🔵
+- 🟥RP-23ML radar       -🔵
+- 🟥RP-23MLA-II radar   -🔵
+
+- 🟩RP-22SM radar       -🟢Completed, feedback needed
+- 🟩RP-21M radar        -🟢Completed, feedback needed
+
+### IRST
+
+- 🟥TP-23 IRST          -🔵
+- 🟥TP-23M IRST         -🔵
+- 🟥TP-26 IRST          -🔵
+- 🟥TP-26Sh1 IRST       -🔵
