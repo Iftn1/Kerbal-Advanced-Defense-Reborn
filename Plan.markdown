@@ -18,16 +18,16 @@
 
 ### Surface-to-Air
 
-- 🟩9M33 Osa            -🟡The actual flight performance is unknown as it has not undergone extensive testing.
-- 🟩FIM-92 Stinger      -🔴There is a serious problem; it may not be able to launch normally.
-- 🟩IRIS-T SLM          -🟢After testing, it demonstrated excellent performance.
+- 🟩9M33M3 Osa          -🟡After testing, some issues were found.
+- 🟩FIM-92 Stinger      -🟡After testing, some issues were found.
+- 🟩IRIS-T SLM          -🟡After testing, some issues were found.
 - 🟩IRIS-T SLS          -🟡After testing, some issues were found.
 - 🟩MIM-104 Patriot     -🟡After testing, some issues were found.
 - 🟩S-300PS 5V55        -🟡After testing, some issues were found.
-- 🟩Rapier              -🔴Serious problem, unable to hit the target.
+- 🟩Rapier              -🟡After testing, some issues were found.
 - 🟩Type 81 Tan-SAM     -🟡After testing, some issues were found.
-- 🟩9M38 Buk            -🟢After testing, it demonstrated excellent performance.
-- 🟩9M37M Strela-10     -🟢After testing, it demonstrated excellent performance.
+- 🟩9M38M1 Buk          -🟡After testing, some issues were found.
+- 🟩9M37M Strela-10     -🟡After testing, some issues were found.
 - 🟥FB-10A              -🔵
 - 🟥RIM-8               -🔵
 - 🟥RIM-24              -🔵
@@ -60,7 +60,7 @@
 
 ### Anti-Radiation
 
-- 🟩CM-102              -🟢After testing, it demonstrated excellent performance.
+- 🟩CM-102              -🟢Completed, feedback needed
 - 🟩Kh-58U              -🟢Completed, feedback needed
 
 ### Air-to-Ground
@@ -75,9 +75,9 @@
 
 ### Air-to-Air
 
-- 🟩PL-5EII             -🟢After testing, it demonstrated excellent performance.
-- 🟩Super 530D          -🟢After testing, it demonstrated excellent performance.
-- 🟩Red Top             -🟡More testing is needed.
+- 🟩PL-5EII             -🟢Completed, feedback needed
+- 🟩Super 530D          -🟢Completed, feedback needed
+- 🟩Red Top             -🟢Completed, feedback needed
 - 🟩PL-15               -🟢Completed, feedback needed
 
 - 🟥R-77                -🔵
