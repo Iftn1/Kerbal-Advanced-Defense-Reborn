@@ -18,18 +18,18 @@
 
 ### Surface-to-Air
 
-- 🟩9M33M3 Osa          -🟡After testing, some issues were found.
-- 🟩FIM-92K Stinger     -🟡After testing, some issues were found.
-- 🟩IRIS-T SLM          -🟡After testing, some issues were found.
-- 🟩IRIS-T SLS          -🟡After testing, some issues were found.
-- 🟩MIM-104E Patriot    -🟡After testing, some issues were found.
-- 🟩S-300PS 5V55R        -🟡After testing, some issues were found.
-- 🟩Rapier Mk1          -🟡After testing, some issues were found.
-- 🟩Rapier Mk1E         -🟡After testing, some issues were found.
-- 🟩Rapier Mk2          -🟡After testing, some issues were found.
-- 🟩Type 81 Tan-SAM     -🟡After testing, some issues were found.
-- 🟩9M38M1 Buk          -🟡After testing, some issues were found.
-- 🟩9M37M Strela-10     -🟡After testing, some issues were found.
+- 🟩9M33M3 Osa          -🟢Completed, feedback needed
+- 🟩FIM-92K Stinger     -🟢Completed, feedback needed
+- 🟩IRIS-T SLM          -🟢Completed, feedback needed
+- 🟩IRIS-T SLS          -🟢Completed, feedback needed
+- 🟩MIM-104E Patriot    -🟢Completed, feedback needed
+- 🟩S-300PS 5V55R       -🟢Completed, feedback needed
+- 🟩Rapier Mk1          -🟢Completed, feedback needed
+- 🟩Rapier Mk1E         -🟢Completed, feedback needed
+- 🟩Rapier Mk2          -🟢Completed, feedback needed
+- 🟩Type 81 Tan-SAM     -🟢Completed, feedback needed
+- 🟩9M38M1 Buk          -🟢Completed, feedback needed
+- 🟩9M37M Strela-10     -🟢Completed, feedback needed
 - 🟥FB-10A              -🔵
 - 🟥RIM-8               -🔵
 - 🟥RIM-24              -🔵
