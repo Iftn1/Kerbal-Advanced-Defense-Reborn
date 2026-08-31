@@ -19,15 +19,17 @@ Current Arsenal
 ---------------
 
 ### Surface-to-Air  
-- 9M33 Osa (SA-8 Gecko)
-- FIM-92 Stinger
+- 9M33M3 Osa (SA-8 Gecko)
+- FIM-92K Stinger
 - IRIS-T SLM
 - IRIS-T SLS
-- MIM-104 Patriot (PAC-2)
-- S-300PS 5V55
-- Rapier
+- MIM-104E Patriot (PAC-2)
+- S-300PS 5V55R
+- Rapier Mk1
+- Rapier Mk1E
+- Rapier Mk2
 - Type 81 Tan-SAM
-- 9M38 Buk (SA-11 Gadfly)
+- 9M38M1 Buk (SA-11 Gadfly)
 - 9M37M Strela-10 (SA-13 Gopher)
 
 ### Surface-to-Surface  
