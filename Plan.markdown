@@ -146,12 +146,24 @@
 ### Bombs
 
 - 🟥AGM-62A             -🔵
+
+### NuclearBomb|Warhead
+
 - 🟥B-61(5kT)           -🟡All completed, need test.
 - 🟥RN28(5kT)           -🟡All completed, need test.
+- 🟥狂飙一号|Kuangbiao-1 -🔵
+- 🟥AN-52               -🔵
+- 🟥YellowSun|GreenGrass-🔵
 - 🟥Red Beard           -🔵
-
-### WarHead
-
+- 🟥MK-8                -🔵
+- 🟥Mk-12               -🔵
+- 🟥MK-17|MK-24         -🔵
+- 🟥B-41|MK-41          -🔵
+- 🟥B-53|MK-53          -🔵
+- 🟥B-57|MK-57          -🔵
+- 🟥B-83                -🔵
+- 🟥RDS-4               -🔵
+- 🟥RDS-220|Tsar        -🔵
 - 🟥W80                 -🔵
 - 🟥W88                 -🟡All completed, need test.
 - 🟥W48                 -🔵
