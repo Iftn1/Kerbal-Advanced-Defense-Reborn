@@ -1,0 +1,25 @@
+{
+  "NAME"     : "Kerbal Advanced Defense Reborn",
+  "DOWNLOAD" : "https://github.com/Iftn1/Kerbal-Advanced-Defense-Reborn/releases",
+  "URL"      : "https://raw.githubusercontent.com/Iftn1/Kerbal-Advanced-Defense-Reborn/master/KerbalAdvancedDefenseReborn/KerbalAdvancedDefenseReborn.version",
+  "GITHUB" : {
+    "USERNAME"   : "Iftn1",
+    "REPOSITORY" : "Kerbal-Advanced-Defense-Reborn"
+  },
+  "VERSION" : {
+    "MAJOR" : 0,
+    "MINOR" : 3,
+    "PATCH" : 5,
+    "BUILD" : 0
+  },
+  "KSP_VERSION_MIN" : {
+    "MAJOR" : 1,
+    "MINOR" : 12,
+    "PATCH" : 5
+  },
+  "KSP_VERSION_MAX" : {
+    "MAJOR" : 1,
+    "MINOR" : 12,
+    "PATCH" : 99
+  }
+}
