@@ -155,7 +155,7 @@
 - 🟥AN-52               -🔵
 - 🟥YellowSun|GreenGrass-🔵
 - 🟥Red Beard           -🔵
-- 🟥MK-8                -🔵
+- 🟥MK-8                -🟡All completed, need test.
 - 🟥Mk-12               -🔵
 - 🟥MK-17|MK-24         -🔵
 - 🟥B-41|MK-41          -🔵
