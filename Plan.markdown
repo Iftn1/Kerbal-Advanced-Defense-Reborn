@@ -197,6 +197,7 @@
 
 ### IRST
 
-- 🟥TP-23 IRST          -🟡
+- 🟥TP-23-1 IRST        -🟡
 - 🟥TP-26 IRST          -🟡
 - 🟥TP-26Sh1 IRST       -🟡
+- 🟥8TP IRST            -🟡
