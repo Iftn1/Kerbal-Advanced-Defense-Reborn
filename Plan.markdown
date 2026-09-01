@@ -140,7 +140,11 @@
 - 🟥AIM-54C+            -🔵
 - 🟥R.511               -🔵
 - 🟥R.550 Magic2        -🔵
-- 🟥AIM26B-NuclearFalcon-🔵
+- 🟥AIM26-NuclearFalcon -🔵
+- 🟥AIM-4D|GAR-1D       -🔵
+- 🟥AIM-4B|GAR-2        -🔵
+- 🟥AIM-4F|GAR-3A       -🔵
+- 🟥AIM-4G|GAR-4A       -🔵
 - 🟥TY-90               -🔵
 
 ### Bombs
