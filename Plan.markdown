@@ -192,9 +192,8 @@
 - 🟩RP-22SM radar       -🟢Completed, feedback needed
 - 🟩RP-21M radar        -🟢Completed, feedback needed
 
-- 🟥RP-31 radar         -🟡
-- 🟥RP-31M radar        -🟡
-- 🟥RP-31AM radar       -🟡
+- 🟥RP-31 radar         -🟡Model complete, need data.
+- 🟥RP-31M radar        -🟡Model complete, need data.
 
 ### IRST
 
