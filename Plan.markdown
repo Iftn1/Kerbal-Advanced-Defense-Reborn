@@ -96,20 +96,20 @@
 - 🟩R40RD               -🟢Completed, feedback needed
 - 🟩R40TD               -🟢Completed, feedback needed
 
-- 🟥R-37                -🟡
-- 🟥R-37M               -🟡
+- 🟥R-37                -🔵
+- 🟥R-37M               -🔵
 
-- 🟥R-33                -🟡
-- 🟥R-33S               -🟡
+- 🟥R-33                -🔵
+- 🟥R-33S               -🔵
 
-- 🟥R-27R               -🔵
-- 🟥R-27T               -🔵
-- 🟥R-27P               -🔵
-- 🟥R-27A               -🔵
-- 🟥R-27ER              -🔵
-- 🟥R-27ET              -🔵
-- 🟥R-27EP              -🔵
-- 🟥R-27EA              -🔵
+- 🟥R-27R               -🟡
+- 🟥R-27T               -🟡
+- 🟥R-27P               -🟡
+- 🟥R-27A               -🟡
+- 🟥R-27ER              -🟡
+- 🟥R-27ET              -🟡
+- 🟥R-27EP              -🟡
+- 🟥R-27EA              -🟡
 
 - 🟥R-23R               -🔵
 - 🟥R-23T               -🔵
@@ -192,8 +192,8 @@
 - 🟩RP-22SM radar       -🟢Completed, feedback needed
 - 🟩RP-21M radar        -🟢Completed, feedback needed
 
-- 🟥RP-31 radar         -🟡Model complete, need data.
-- 🟥RP-31M radar        -🟡Model complete, need data.
+- 🟩RP-31 radar         -🟢Completed, feedback needed
+- 🟩RP-31M radar        -🟢Completed, feedback needed
 
 ### IRST
 
