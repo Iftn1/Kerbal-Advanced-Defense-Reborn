@@ -41,13 +41,13 @@
 - 🟥2K12 Kub/SA-6       -🔵
 - 🟥9M330 Tor/SA-15     -🔵
 
-### Surface-to-Surface
+### Surface-to-Surface | Anti-tank
 
 - 🟥9K79_Tochka         -🔴Model reset, data reset
 - 🟥RW61_380mm          -🔴Model reset, data reset
 - 🟥9K72/SS-1           -🔵
 
-### Anti-Ship  
+### Anti-Ship | Cruise Missile
 
 - 🟥AGM-84D             -🟡Model reset complete, data reset complete, currently testing.
 - 🟥SS-N-3B             -🔴Model awaiting reset; data reset complete.
@@ -73,7 +73,6 @@
 - 🟥Brimstone           -🔴Model reset, data reset.
 - 🟥CM502KG             -🟡Model reset complete, data need test.
 - 🟥SpikeLR2            -🔴Model reset, data reset.
-- 🟥TinyTim             -🟡Model reset complete, data need test.
 
 ### Air-to-Air
 
@@ -173,6 +172,18 @@
 - 🟥W48                 -🔵
 - 🟥ICBMSS-6“Sapwood”   -🔵
 
+### Gun | machine gun | Turret | Shells
+
+
+### Torpedo
+
+
+### Depth bomb | Mines
+
+
+### Rocket | Rocket Pods
+- 🟥TinyTim             -🟡Model reset complete, data need test.
+
 ### Radars
 
 - 🟥RP-S radar          -🔵
@@ -201,3 +212,7 @@
 - 🟥TP-26 IRST          -🟡
 - 🟥TP-26Sh1 IRST       -🟡
 - 🟥8TP IRST            -🟡
+
+### Engines
+
+### Missile racks
