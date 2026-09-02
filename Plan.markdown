@@ -16,7 +16,7 @@
 
 ----
 
-### Surface-to-Air
+## Surface-to-Air
 
 - 🟩9M33M3 Osa          -🟢Completed, feedback needed
 - 🟩FIM-92K Stinger     -🟢Completed, feedback needed
@@ -41,13 +41,13 @@
 - 🟥2K12 Kub/SA-6       -🔵
 - 🟥9M330 Tor/SA-15     -🔵
 
-### Surface-to-Surface
+## Surface-to-Surface | Anti-tank
 
 - 🟥9K79_Tochka         -🔴Model reset, data reset
 - 🟥RW61_380mm          -🔴Model reset, data reset
 - 🟥9K72/SS-1           -🔵
 
-### Anti-Ship  
+## Anti-Ship | Cruise Missile
 
 - 🟥AGM-84D             -🟡Model reset complete, data reset complete, currently testing.
 - 🟥SS-N-3B             -🔴Model awaiting reset; data reset complete.
@@ -60,12 +60,12 @@
 - 🟥AGM-119 Penguin     -🔵
 - 🟥YJ-81K              -🔵
 
-### Anti-Radiation
+## Anti-Radiation
 
 - 🟩CM-102              -🟢Completed, feedback needed
 - 🟩Kh-58U              -🟢Completed, feedback needed
 
-### Air-to-Ground
+## Air-to-Ground
 
 - 🟥AGM65G_Maverick     -🟡Model reset complete, data need test.
 - 🟥AGM179_JAGM         -🔴Model reset, data reset.
@@ -73,9 +73,8 @@
 - 🟥Brimstone           -🔴Model reset, data reset.
 - 🟥CM502KG             -🟡Model reset complete, data need test.
 - 🟥SpikeLR2            -🔴Model reset, data reset.
-- 🟥TinyTim             -🟡Model reset complete, data need test.
 
-### Air-to-Air
+## Air-to-Air
 
 - 🟩PL-5EII             -🟢Completed, feedback needed
 - 🟩Super 530D          -🟢Completed, feedback needed
@@ -102,14 +101,14 @@
 - 🟥R-33                -🔵
 - 🟥R-33S               -🔵
 
-- 🟥R-27R               -🔵
-- 🟥R-27T               -🔵
-- 🟥R-27P               -🔵
-- 🟥R-27A               -🔵
-- 🟥R-27ER              -🔵
-- 🟥R-27ET              -🔵
-- 🟥R-27EP              -🔵
-- 🟥R-27EA              -🔵
+- 🟥R-27R               -🟡
+- 🟥R-27T               -🟡
+- 🟥R-27P               -🟡
+- 🟥R-27A               -🟡
+- 🟥R-27ER              -🟡
+- 🟥R-27ET              -🟡
+- 🟥R-27EP              -🟡
+- 🟥R-27EA              -🟡
 
 - 🟥R-23R               -🔵
 - 🟥R-23T               -🔵
@@ -140,14 +139,18 @@
 - 🟥AIM-54C+            -🔵
 - 🟥R.511               -🔵
 - 🟥R.550 Magic2        -🔵
-- 🟥AIM26B-NuclearFalcon-🔵
+- 🟥AIM26-NuclearFalcon -🔵
+- 🟥AIM-4D|GAR-1D       -🔵
+- 🟥AIM-4B|GAR-2        -🔵
+- 🟥AIM-4F|GAR-3A       -🔵
+- 🟥AIM-4G|GAR-4A       -🔵
 - 🟥TY-90               -🔵
 
-### Bombs
+## Bombs
 
 - 🟥AGM-62A             -🔵
 
-### NuclearBomb|Warhead
+## NuclearBomb|Warhead
 
 - 🟥B-61(5kT)           -🟡All completed, need test.
 - 🟥RN28(5kT)           -🟡All completed, need test.
@@ -158,7 +161,7 @@
 - 🟥MK-8                -🟡All completed, need test.
 - 🟥Mk-12               -🔵
 - 🟥MK-17|MK-24         -🔵
-- 🟥B-41|MK-41          -🔵
+- 🟥B-41|MK-41          -🟡All completed, need test.
 - 🟥B-53|MK-53          -🔵
 - 🟥B-57|MK-57          -🔵
 - 🟥B-83                -🔵
@@ -169,7 +172,22 @@
 - 🟥W48                 -🔵
 - 🟥ICBMSS-6“Sapwood”   -🔵
 
-### Radars
+## Gun | machine gun | Turret | Shells
+
+
+## Vehicle Body
+
+
+## Torpedo
+
+
+## Depth bomb | Mines
+
+
+## Rocket | Rocket Pods
+- 🟥TinyTim             -🟡Model reset complete, data need test.
+
+## Radars
 
 - 🟥RP-S radar          -🔵
 - 🟥RP-SM radar         -🔵
@@ -181,16 +199,25 @@
 - 🟩RP-25 radar         -🟢Completed, feedback needed
 - 🟩RP-25M radar        -🟢Completed, feedback needed
 
-- 🟥RP-23D-III radar    -🔵
-- 🟥RP-23ML radar       -🔵
-- 🟥RP-23MLA-II radar   -🔵
+- 🟥RP-23D-III radar    -🟡
+- 🟥RP-23ML radar       -🟡
+- 🟥RP-23MLA-II radar   -🟡
 
 - 🟩RP-22SM radar       -🟢Completed, feedback needed
 - 🟩RP-21M radar        -🟢Completed, feedback needed
 
-### IRST
+- 🟩RP-31 radar         -🟢Completed, feedback needed
+- 🟩RP-31M radar        -🟢Completed, feedback needed
 
-- 🟥TP-23 IRST          -🔵
-- 🟥TP-23M IRST         -🔵
-- 🟥TP-26 IRST          -🔵
-- 🟥TP-26Sh1 IRST       -🔵
+## IRST
+
+- 🟥TP-23-1 IRST        -🟡
+- 🟥TP-26 IRST          -🟡
+- 🟥TP-26Sh1 IRST       -🟡
+- 🟥8TP IRST            -🟡
+
+## Engines
+
+## Missile racks
+
+## Anti-Satellite | Space Warfare Content
