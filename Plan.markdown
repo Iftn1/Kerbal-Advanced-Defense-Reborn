@@ -161,6 +161,7 @@
 - 🟥MK-8                -🟡All completed, need test.
 - 🟥Mk-12               -🔵
 - 🟥MK-17|MK-24         -🔵
+- 🟥B-28|MK-28          -🔵
 - 🟥B-41|MK-41          -🟡All completed, need test.
 - 🟥B-53|MK-53          -🔵
 - 🟥B-57|MK-57          -🔵
