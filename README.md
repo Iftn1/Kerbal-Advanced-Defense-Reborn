@@ -1,25 +1,20 @@
 # Kerbal Advanced Defense Reborn (KADR)
 
-A collection of realistic Weapons for BDArmory Plus.
-<img width="1358" height="971" alt="image" src="https://github.com/user-attachments/assets/57363a89-b287-4184-b8a4-7927cc1f8447" />
-<img width="1018" height="1014" alt="image" src="https://github.com/user-attachments/assets/19534860-622e-4c02-be37-7ebddb4650aa" />
-<img width="1137" height="904" alt="ad4b05ee7da49ca007c1fd8de63a524e" src="https://github.com/user-attachments/assets/d698f3de-7721-465a-b54d-7345a0f6e633" />
+## A collection of realistic Weapons for BDArmory Plus
+
+| | | |
+| :---: | :---: | :---: |
+| ![lft-img](https://github.com/user-attachments/assets/57363a89-b287-4184-b8a4-7927cc1f8447) | ![cntr-img](https://github.com/user-attachments/assets/19534860-622e-4c02-be37-7ebddb4650aa) | ![rgt-img](https://github.com/user-attachments/assets/d698f3de-7721-465a-b54d-7345a0f6e633) |
 
 ## Dependencies
-
-------------
 
 - [BDArmory Plus](https://forum.kerbalspaceprogram.com/topic/209092-19x-112x-bdarmory-plus-bda-v1710-2024-09-04/)
 
 ## Installation
 
-------------
-
 Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 
 ## Current Arsenal
-
-------------
 
 ### Surface-to-Air
 
@@ -36,18 +31,18 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 - 9M38M1 Buk (SA-11 Gadfly)
 - 9M37M Strela-10 (SA-13 Gopher)
 
-### Surface-to-Surface  
+### Surface-to-Surface
 
-### Anti-Ship  
+### Anti-Ship
 
-### Anti-Radiation  
+### Anti-Radiation
 
 - CM-102
 - Kh-58U
 
-### Air-to-Ground  
+### Air-to-Ground
 
-### Air-to-Air  
+### Air-to-Air
 
 - PL-5EII
 - Super 530D
@@ -62,9 +57,9 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 - R-60MK
 - PL-15
 
-### Bombs  
+### Bombs
 
-### Radars  
+### Radars
 
 - RP-31M
 - RP-31
@@ -73,9 +68,7 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 - RP-21M
 - RP-22SM
 
-Notes
-
-------------
+## Notes
 
 - This is a pre-release. Models and configs are being continuously refined.
 - Some missiles require radar or targeting pod equipment on the launch craft (SARH, laser-guided types).
