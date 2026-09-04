@@ -175,17 +175,14 @@
 
 ## Gun | machine gun | Turret | Shells
 
-
 ## Vehicle Body
-
 
 ## Torpedo
 
-
 ## Depth bomb | Mines
 
-
 ## Rocket | Rocket Pods
+
 - 🟥TinyTim             -🟡Model reset complete, data need test.
 
 ## Radars
