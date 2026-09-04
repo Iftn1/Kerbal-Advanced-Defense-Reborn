@@ -2,9 +2,13 @@
 
 ## A collection of realistic Weapons for BDArmory Plus
 
-| | | |
-| :---: | :---: | :---: |
-| ![lft-img](https://github.com/user-attachments/assets/57363a89-b287-4184-b8a4-7927cc1f8447) | ![cntr-img](https://github.com/user-attachments/assets/19534860-622e-4c02-be37-7ebddb4650aa) | ![rgt-img](https://github.com/user-attachments/assets/d698f3de-7721-465a-b54d-7345a0f6e633) |
+| | |
+| :---: | :---: |
+| ![lft-img](https://github.com/user-attachments/assets/57363a89-b287-4184-b8a4-7927cc1f8447) | ![rgt-img](https://github.com/user-attachments/assets/19534860-622e-4c02-be37-7ebddb4650aa) |
+
+| |
+| :---: |
+| ![cntr-img](https://github.com/user-attachments/assets/d698f3de-7721-465a-b54d-7345a0f6e633) |
 
 ## Dependencies
 
