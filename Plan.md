@@ -197,9 +197,9 @@
 - 🟩RP-25 radar         -🟢Completed, feedback needed
 - 🟩RP-25M radar        -🟢Completed, feedback needed
 
-- 🟥RP-23D-III radar    -🟡
-- 🟥RP-23ML radar       -🟡
-- 🟥RP-23MLA-II radar   -🟡
+- 🟥RP-23D-III radar    -🟡Model complete, data need test.
+- 🟥RP-23ML radar       -🟡Model complete, data need test.
+- 🟥RP-23MLA-II radar   -🟡Model complete, data need test.
 
 - 🟩RP-22SM radar       -🟢Completed, feedback needed
 - 🟩RP-21M radar        -🟢Completed, feedback needed
@@ -209,10 +209,10 @@
 
 ## IRST
 
-- 🟥TP-23-1 IRST        -🟡
-- 🟥TP-26 IRST          -🟡
-- 🟥TP-26Sh1 IRST       -🟡
-- 🟥8TP IRST            -🟡
+- 🟥TP-23-1 IRST        -🟡Model complete, data need test.
+- 🟥TP-26 IRST          -🟡Model complete, data need test.
+- 🟥TP-26Sh1 IRST       -🟡Model complete, data need test.
+- 🟥8TK IRST            -🟡Model complete, data need test.
 
 ## Engines
 
