@@ -72,6 +72,13 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 - RP-21M
 - RP-22SM
 
+### IRST
+
+- 8TK/8TP
+- TP-26Sh-1
+- TP-26
+- TP-23
+
 ## Notes
 
 - This is a pre-release. Models and configs are being continuously refined.
