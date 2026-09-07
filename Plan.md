@@ -209,10 +209,10 @@
 
 ## IRST
 
-- 🟥TP-23-1 IRST        -🟡Model complete, data need test.
-- 🟥TP-26 IRST          -🟡Model complete, data need test.
-- 🟥TP-26Sh1 IRST       -🟡Model complete, data need test.
-- 🟥8TK IRST            -🟡Model complete, data need test.
+- 🟩TP-23-1 IRST        -🟢Completed, feedback needed
+- 🟩TP-26 IRST          -🟢Completed, feedback needed
+- 🟩TP-26Sh1 IRST       -🟢Completed, feedback needed
+- 🟩8TK IRST            -🟢Completed, feedback needed
 
 ## Engines
 
