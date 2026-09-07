@@ -175,17 +175,14 @@
 
 ## Gun | machine gun | Turret | Shells
 
-
 ## Vehicle Body
-
 
 ## Torpedo
 
-
 ## Depth bomb | Mines
 
-
 ## Rocket | Rocket Pods
+
 - 🟥TinyTim             -🟡Model reset complete, data need test.
 
 ## Radars
@@ -200,9 +197,9 @@
 - 🟩RP-25 radar         -🟢Completed, feedback needed
 - 🟩RP-25M radar        -🟢Completed, feedback needed
 
-- 🟥RP-23D-III radar    -🟡
-- 🟥RP-23ML radar       -🟡
-- 🟥RP-23MLA-II radar   -🟡
+- 🟥RP-23D-III radar    -🟡Model complete, data need test.
+- 🟥RP-23ML radar       -🟡Model complete, data need test.
+- 🟥RP-23MLA-II radar   -🟡Model complete, data need test.
 
 - 🟩RP-22SM radar       -🟢Completed, feedback needed
 - 🟩RP-21M radar        -🟢Completed, feedback needed
@@ -212,10 +209,10 @@
 
 ## IRST
 
-- 🟥TP-23-1 IRST        -🟡
-- 🟥TP-26 IRST          -🟡
-- 🟥TP-26Sh1 IRST       -🟡
-- 🟥8TP IRST            -🟡
+- 🟩TP-23-1 IRST        -🟢Completed, feedback needed
+- 🟩TP-26 IRST          -🟢Completed, feedback needed
+- 🟩TP-26Sh1 IRST       -🟢Completed, feedback needed
+- 🟩8TK IRST            -🟢Completed, feedback needed
 
 ## Engines
 
