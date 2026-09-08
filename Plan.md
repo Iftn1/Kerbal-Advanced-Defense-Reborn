@@ -152,24 +152,24 @@
 
 ## NuclearBomb|Warhead
 
-- 🟥B-61(5kT)           -🟡All completed, need test.
-- 🟥RN28(5kT)           -🟡All completed, need test.
+- 🟩B-61(5kT)           -🟡All completed, need test.
+- 🟩RN28(5kT)           -🟡All completed, need test.
 - 🟥狂飙一号|Kuangbiao-1 -🔵
 - 🟥AN-52               -🔵
 - 🟥YellowSun|GreenGrass-🔵
 - 🟥Red Beard           -🔵
-- 🟥MK-8                -🟡All completed, need test.
+- 🟩MK-8                -🟡All completed, need test.
 - 🟥Mk-12               -🔵
 - 🟥MK-17|MK-24         -🔵
-- 🟥MK-28FI             -🟡All completed, need test.
-- 🟥B-41|MK-41          -🟡All completed, need test.
+- 🟩MK-28FI             -🟡All completed, need test.
+- 🟩B-41|MK-41          -🟡All completed, need test.
 - 🟥B-53|MK-53          -🔵
 - 🟥B-57|MK-57          -🔵
 - 🟥B-83                -🔵
 - 🟥RDS-4               -🔵
-- 🟥RDS-220|Tsar        -🟡All completed, need test.
+- 🟩RDS-220|Tsar        -🟡All completed, need test.
 - 🟥W80                 -🔵
-- 🟥W88                 -🟡All completed, need test.
+- 🟩W88                 -🟡All completed, need test.
 - 🟥W48                 -🔵
 - 🟥ICBMSS-6“Sapwood”   -🔵
 
