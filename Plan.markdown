@@ -163,7 +163,7 @@
 - 🟥B-57|MK-57          -🔵
 - 🟥B-83                -🔵
 - 🟥RDS-4               -🔵
-- 🟥RDS-220|Tsar        -🔵
+- 🟥RDS-220|Tsar        -🟡All completed, need test.
 - 🟥W80                 -🔵
 - 🟥W88                 -🟡All completed, need test.
 - 🟥W48                 -🔵
