@@ -63,6 +63,14 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 
 ### Bombs
 
+- B-28FI
+- B-61
+- MK-8
+- MK-41
+- RN-28
+- Tsar | AN-602
+- W88
+
 ### Radars
 
 - RP-31M
