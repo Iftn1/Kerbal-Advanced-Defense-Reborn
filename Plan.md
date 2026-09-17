@@ -112,9 +112,9 @@
 
 - 🟥R-23R               -🟡
 - 🟥R-23T               -🟡
-- 🟥R-24R               -🔵
-- 🟥R-24T               -🔵
-- 🟥R-24M               -🔵
+- 🟥R-24R               -🟡
+- 🟥R-24T               -🟡
+- 🟥R-24M               -🟡
 
 - 🟥RS-1U               -🔵
 - 🟥RS-2US              -🔵
@@ -183,7 +183,7 @@
 
 ## Rocket | Rocket Pods
 
-- 🟥TinyTim             -🟡Model reset complete, data need test.
+- 🟩TinyTim             -🟢Completed, feedback needed
 
 ## Radars
 
