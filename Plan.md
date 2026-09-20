@@ -81,6 +81,14 @@
 - 🟩Red Top             -🟢Completed, feedback needed
 - 🟩PL-15               -🟢Completed, feedback needed
 
+- 🟥AIM-7C              -🟡Model complete, need data.
+- 🟥AIM-7D              -🟡Model complete, need data.
+- 🟥AIM-7E              -🟡Model complete, need data.
+- 🟥AIM-7E2             -🟡Model complete, need data.
+- 🟥AIM-7F              -🟡Model complete, need data.
+- 🟥AIM-7M              -🟡Model complete, need data.
+- 🟥AIM-7P              -🟡Model complete, need data.
+
 - 🟥R-77                -🔵
 - 🟥R-77-1              -🔵
 - 🟥R-77M               -🔵
