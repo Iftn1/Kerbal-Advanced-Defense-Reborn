@@ -89,7 +89,6 @@
 - 🟥AIM-7E2             -🟡Model complete, need data.
 - 🟥AIM-7F              -🟡Model complete, need data.
 - 🟥AIM-7M              -🟡Model complete, need data.
-- 🟥AIM-7P              -🟡Model complete, need data.
 
 - 🟥R-77                -🔵
 - 🟥R-77-1              -🔵
