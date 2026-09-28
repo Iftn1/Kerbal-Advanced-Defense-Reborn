@@ -206,9 +206,9 @@
 - 🟩RP-25 radar         -🟢Completed, feedback needed
 - 🟩RP-25M radar        -🟢Completed, feedback needed
 
-- 🟥RP-23D-III radar    -🟡Model complete, data need test.
-- 🟥RP-23ML radar       -🟡Model complete, data need test.
-- 🟥RP-23MLA-II radar   -🟡Model complete, data need test.
+- 🟩RP-23D-III radar    -🟢Completed, feedback needed
+- 🟩RP-23ML radar       -🟢Completed, feedback needed
+- 🟩RP-23MLA-II radar   -🟢Completed, feedback needed
 
 - 🟩RP-22SM radar       -🟢Completed, feedback needed
 - 🟩RP-21M radar        -🟢Completed, feedback needed
