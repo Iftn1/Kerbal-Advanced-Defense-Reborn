@@ -56,7 +56,7 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 | | R-40T | | | | | | |
 | | R-40TD | | | | | | |
 | SARH (Fox1) | AIM-7A | AIM-7C | AIM-7D | AIM-7E | AIM-7E2 | AIM-7F | AIM-7M |
-| | R-3R | R-40R | R-40RD | AIM-26A | AIM-26B |  | |
+| | R-3R | R-40R | R-40RD | AIM-26B |  |  | |
 | | Super 530D | | | | | | |
 | ARG (Fox3) | PL-15 |  | | | | | |
 | | AIM-7B | | | | | | |
@@ -65,9 +65,11 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 ### Wunderwaffe
 | Nuclear Bomb | B-28FI | B-61 | MK-8 | MK-41 | RN-28 |  |  |
 |---|---|---|---|---|---|---|---|
-|  | Tsar Bomba | | | | | | |
+|  | Tsar Bomba |  | | | | | |
 | Nuclear Warhead | W88 | | | | | | |
-| | | | | | | | |
+|  |  |  |  |  |  |  |  |
+| Nuclear Missile | AIM-26A |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 ### Radars
 | RP-31M | RP-31 | RP-25M | RP-25 | RP-21M | RP-22SM | | |
