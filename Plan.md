@@ -81,14 +81,17 @@
 - 🟩Red Top             -🟢Completed, feedback needed
 - 🟩PL-15               -🟢Completed, feedback needed
 
-- 🟥AIM-7A              -🟡Model complete, need data.
-- 🟥AIM-7B              -🟡Model complete, data need test.
-- 🟥AIM-7C              -🟡Model complete, need data.
-- 🟥AIM-7D              -🟡Model complete, need data.
-- 🟥AIM-7E              -🟡Model complete, need data.
-- 🟥AIM-7E2             -🟡Model complete, need data.
-- 🟥AIM-7F              -🟡Model complete, need data.
-- 🟥AIM-7M              -🟡Model complete, need data.
+- 🟩AIM-7A              -🟢Completed, feedback needed
+- 🟩AIM-7B              -🟢Completed, feedback needed
+- 🟩AIM-7C              -🟢Completed, feedback needed
+- 🟩AIM-7D              -🟢Completed, feedback needed
+- 🟩AIM-7E              -🟢Completed, feedback needed
+- 🟩AIM-7E2             -🟢Completed, feedback needed
+- 🟩AIM-7F              -🟢Completed, feedback needed
+- 🟩AIM-7M              -🟢Completed, feedback needed
+
+- 🟩AIM-26A             -🟢Completed, feedback needed
+- 🟩AIM-26B             -🟢Completed, feedback needed
 
 - 🟥R-77                -🔵
 - 🟥R-77-1              -🔵
@@ -148,7 +151,6 @@
 - 🟥AIM-54C+            -🔵
 - 🟥R.511               -🔵
 - 🟥R.550 Magic2        -🔵
-- 🟥AIM26-NuclearFalcon -🔵
 - 🟥AIM-4D|GAR-1D       -🔵
 - 🟥AIM-4B|GAR-2        -🔵
 - 🟥AIM-4F|GAR-3A       -🔵
