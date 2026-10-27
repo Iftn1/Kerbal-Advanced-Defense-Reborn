@@ -21,71 +21,66 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 ## Current Arsenal
 
 ### Surface-to-Air
-
-- 9M33M3 Osa (SA-8 Gecko)
-- FIM-92K Stinger
-- IRIS-T SLM
-- IRIS-T SLS
-- MIM-104E Patriot (PAC-2)
-- S-300PS 5V55R
-- Rapier Mk1
-- Rapier Mk1E
-- Rapier Mk2
-- Type 81 Tan-SAM
-- 9M38M1 Buk (SA-11 Gadfly)
-- 9M37M Strela-10 (SA-13 Gopher)
+| 9M33M3 Osa | 9M38M1 | Type81 Tan-Sam | IRIS-T SLM | IRIS-T SLS | Rapier MK1 | Rapier Mk1E | Rapier Mk2 |
+|---|---|---|---|---|---|---|---|
+| FIM-92K | MIM-104E Patriot (PAC-2) | S-300PS 5V55R |  |  |  |  |  |
+| 9M37M |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 ### Surface-to-Surface
+|  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |
 
 ### Anti-Ship
-
-### Anti-Radiation
-
-- CM-102
-- Kh-58U
+|  |  |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |
 
 ### Air-to-Ground
+| Anti-Radiation | CM-102 | KH-58U |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |
+| AGM |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| Laser Guided Bomb | | | | | | | |
+| | | | | | | | |
+| Glide bomb | | | | | | | |
+| | | | | | | | |
+| Unguided Bomb | | | | | | | |
+| | | | | | | | |
 
 ### Air-to-Air
+| IR (Fox2) | PL-5EII | Red Top | R-3S | R-60MK | R-60K |  |  |
+|---|---|---|---|---|---|---|---|
+| | R-40T | | | | | | |
+| | R-40TD | | | | | | |
+| SARH (Fox1) | AIM-7A | AIM-7C | AIM-7D | AIM-7E | AIM-7E2 | AIM-7F | AIM-7M |
+| | R-3R | R-40R | R-40RD | AIM-26B |  |  | |
+| | Super 530D | | | | | | |
+| ARG (Fox3) | PL-15 |  | | | | | |
+| | AIM-7B | | | | | | |
+| | | | | | | | |
 
-- PL-5EII
-- Super 530D
-- Red Top
-- R-40RD
-- R-40TD
-- R-40T
-- R-40R
-- R-3S
-- R-3R
-- R-60K
-- R-60MK
-- PL-15
-
-### Bombs
-
-- B-28FI
-- B-61
-- MK-8
-- MK-41
-- RN-28
-- Tsar | AN-602
-- W88
+### Wunderwaffe
+| Nuclear Bomb | B-28FI | B-61 | MK-8 | MK-41 | RN-28 |  |  |
+|---|---|---|---|---|---|---|---|
+|  | Tsar Bomba |  | | | | | |
+| Nuclear Warhead | W88 | | | | | | |
+|  |  |  |  |  |  |  |  |
+| Nuclear Missile | AIM-26A |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 ### Radars
-
-- RP-31M
-- RP-31
-- RP-25M
-- RP-25
-- RP-21M
-- RP-22SM
+| RP-31M | RP-31 | RP-25M | RP-25 | RP-21M | RP-22SM | | |
+|---|---|---|---|---|---|---|---|
+| RP-23D-III | RP-23MLA-II | RP-23ML |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 ### IRST
-
-- 8TK/8TP
-- TP-26Sh-1
-- TP-26
-- TP-23
+| 8TK/8TP | TP-26Sh-1 | TP-26 | TP-23 | | | | |
+|---|---|---|---|---|---|---|---|
+| | | | | | | | |
 
 ## Notes
 

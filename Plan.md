@@ -30,6 +30,10 @@
 - 🟩Type 81 Tan-SAM     -🟢Completed, feedback needed
 - 🟩9M38M1 Buk          -🟢Completed, feedback needed
 - 🟩9M37M Strela-10     -🟢Completed, feedback needed
+- 🟥S-125|M-1           -🟡  
+- 🟥RIM-2 Terrier       -🟡
+- 🟥RIM-8 Talos         -🟡
+- 🟥RIM-24 Tartar       -🟡    
 - 🟥FB-10A              -🔵
 - 🟥RIM-8               -🔵
 - 🟥RIM-24              -🔵
@@ -50,9 +54,9 @@
 ## Anti-Ship | Cruise Missile
 
 - 🟥AGM-84D             -🟡Model reset complete, data reset complete, currently testing.
-- 🟥SS-N-3B             -🔴Model awaiting reset; data reset complete.
-- 🟥YJ-83K              -🔴Model awaiting reset; data reset complete.
-- 🟥SeaEagle            -🔴Model awaiting reset; data reset complete.
+- 🟥SS-N-3|P-35         -🟡Model awaiting reset; data reset complete.
+- 🟥YJ-83K              -🟡Model awaiting reset; data reset complete.
+- 🟥SeaEagle            -🟡Model awaiting reset; data reset complete.
 - 🟥SS-N-2              -🔵
 - 🟥BGM-109 Tomahawk    -🔵
 - 🟥P-500/SS-N-12       -🔵
@@ -80,6 +84,18 @@
 - 🟩Super 530D          -🟢Completed, feedback needed
 - 🟩Red Top             -🟢Completed, feedback needed
 - 🟩PL-15               -🟢Completed, feedback needed
+
+- 🟩AIM-7A              -🟢Completed, feedback needed
+- 🟩AIM-7B              -🟢Completed, feedback needed
+- 🟩AIM-7C              -🟢Completed, feedback needed
+- 🟩AIM-7D              -🟢Completed, feedback needed
+- 🟩AIM-7E              -🟢Completed, feedback needed
+- 🟩AIM-7E2             -🟢Completed, feedback needed
+- 🟩AIM-7F              -🟢Completed, feedback needed
+- 🟩AIM-7M              -🟢Completed, feedback needed
+
+- 🟩AIM-26A             -🟢Completed, feedback needed
+- 🟩AIM-26B             -🟢Completed, feedback needed
 
 - 🟥R-77                -🔵
 - 🟥R-77-1              -🔵
@@ -112,9 +128,9 @@
 
 - 🟥R-23R               -🟡
 - 🟥R-23T               -🟡
-- 🟥R-24R               -🔵
-- 🟥R-24T               -🔵
-- 🟥R-24M               -🔵
+- 🟥R-24R               -🟡
+- 🟥R-24T               -🟡
+- 🟥R-24M               -🟡
 
 - 🟥RS-1U               -🔵
 - 🟥RS-2US              -🔵
@@ -139,7 +155,6 @@
 - 🟥AIM-54C+            -🔵
 - 🟥R.511               -🔵
 - 🟥R.550 Magic2        -🔵
-- 🟥AIM26-NuclearFalcon -🔵
 - 🟥AIM-4D|GAR-1D       -🔵
 - 🟥AIM-4B|GAR-2        -🔵
 - 🟥AIM-4F|GAR-3A       -🔵
@@ -183,7 +198,7 @@
 
 ## Rocket | Rocket Pods
 
-- 🟥TinyTim             -🟡Model reset complete, data need test.
+- 🟩TinyTim             -🟢Completed, feedback needed
 
 ## Radars
 
@@ -197,9 +212,9 @@
 - 🟩RP-25 radar         -🟢Completed, feedback needed
 - 🟩RP-25M radar        -🟢Completed, feedback needed
 
-- 🟥RP-23D-III radar    -🟡Model complete, data need test.
-- 🟥RP-23ML radar       -🟡Model complete, data need test.
-- 🟥RP-23MLA-II radar   -🟡Model complete, data need test.
+- 🟩RP-23D-III radar    -🟢Completed, feedback needed
+- 🟩RP-23ML radar       -🟢Completed, feedback needed
+- 🟩RP-23MLA-II radar   -🟢Completed, feedback needed
 
 - 🟩RP-22SM radar       -🟢Completed, feedback needed
 - 🟩RP-21M radar        -🟢Completed, feedback needed
