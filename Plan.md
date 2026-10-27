@@ -30,6 +30,10 @@
 - 🟩Type 81 Tan-SAM     -🟢Completed, feedback needed
 - 🟩9M38M1 Buk          -🟢Completed, feedback needed
 - 🟩9M37M Strela-10     -🟢Completed, feedback needed
+- 🟥S-125|M-1           -🟡  
+- 🟥RIM-2 Terrier       -🟡
+- 🟥RIM-8 Talos         -🟡
+- 🟥RIM-24 Tartar       -🟡    
 - 🟥FB-10A              -🔵
 - 🟥RIM-8               -🔵
 - 🟥RIM-24              -🔵
@@ -50,9 +54,9 @@
 ## Anti-Ship | Cruise Missile
 
 - 🟥AGM-84D             -🟡Model reset complete, data reset complete, currently testing.
-- 🟥SS-N-3B             -🔴Model awaiting reset; data reset complete.
-- 🟥YJ-83K              -🔴Model awaiting reset; data reset complete.
-- 🟥SeaEagle            -🔴Model awaiting reset; data reset complete.
+- 🟥SS-N-3|P-35         -🟡Model awaiting reset; data reset complete.
+- 🟥YJ-83K              -🟡Model awaiting reset; data reset complete.
+- 🟥SeaEagle            -🟡Model awaiting reset; data reset complete.
 - 🟥SS-N-2              -🔵
 - 🟥BGM-109 Tomahawk    -🔵
 - 🟥P-500/SS-N-12       -🔵

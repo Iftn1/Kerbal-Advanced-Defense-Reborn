@@ -74,7 +74,7 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 ### Radars
 | RP-31M | RP-31 | RP-25M | RP-25 | RP-21M | RP-22SM | | |
 |---|---|---|---|---|---|---|---|
-| RP-23D | RP-23D-III | RP-23ML | RP-23MLA | RP-23MLA-II |  |  |  |
+| RP-23D-III | RP-23MLA-II | RP-23ML |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
 ### IRST
