@@ -13,9 +13,13 @@
       <img src="https://img.shields.io/github/stars/Iftn1/Kerbal-Advanced-Defense-Reborn?style=flat-square&color=yellow" alt="Stars">
     </a>
 
-   <a href="https://github.com/Iftn1/Kerbal-Advanced-Defense-Reborn/commits">
-      <img src="https://img.shields.io/github/last-commit/Iftn1/Kerbal-Advanced-Defense-Reborn?style=flat-square&color=green" alt="Last Commit">
+   <a href="https://github.com/Iftn1/Kerbal-Advanced-Defense-Reborn/commits/dev">
+      <img src="https://img.shields.io/github/last-commit/Iftn1/Kerbal-Advanced-Defense-Reborn/dev?style=flat-square&color=green" alt="Last Commit on dev">
     </a>
+    
+   <a href="https://github.com/Iftn1/Kerbal-Advanced-Defense-Reborn/commits/dev">
+      <img src="https://img.shields.io/github/commits-since/Iftn1/Kerbal-Advanced-Defense-Reborn/latest/dev?style=flat-square&color=blue" alt="Commits since latest release on dev">
+     
 </p>
 
 # Kerbal Advanced Defense Reborn (KADR)
