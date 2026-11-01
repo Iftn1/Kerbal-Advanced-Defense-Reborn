@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iftn1/Kerbal-Advanced-Defense-Reborn/refs/heads/dev/KerbalAdvancedDefenseReborn/Flags/KADRflag.png" width="300" alt="项目Logo" />
+</p>
+<p align="center">
+   <a href="https://discord.gg/hDZxW3uEK8">
+      <img src="https://img.shields.io/discord/1548356014968016967?logo=discord&logoColor=white&label=Discord&color=5865F2&style=flat-square" alt="KADR">
+
+   <a href="https://github.com/Iftn1/Kerbal-Advanced-Defense-Reborn/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/Iftn1/Kerbal-Advanced-Defense-Reborn?style=flat-square&color=blue" alt="License">
+    </a>
+
+   <a href="https://github.com/Iftn1/Kerbal-Advanced-Defense-Reborn/stargazers">
+      <img src="https://img.shields.io/github/stars/Iftn1/Kerbal-Advanced-Defense-Reborn?style=flat-square&color=yellow" alt="Stars">
+    </a>
+
+   <a href="https://github.com/Iftn1/Kerbal-Advanced-Defense-Reborn/commits">
+      <img src="https://img.shields.io/github/last-commit/Iftn1/Kerbal-Advanced-Defense-Reborn?style=flat-square&color=green" alt="Last Commit">
+    </a>
+</p>
+
 # Kerbal Advanced Defense Reborn (KADR)
 
 ## A collection of realistic Weapons for BDArmory Plus
