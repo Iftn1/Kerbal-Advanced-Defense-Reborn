@@ -54,15 +54,17 @@
 ## Anti-Ship | Cruise Missile
 
 - 🟥AGM-84D             -🟡Model reset complete, data reset complete, currently testing.
-- 🟥SS-N-3|P-35         -🟡Model awaiting reset; data reset complete.
-- 🟥YJ-83K              -🟡Model awaiting reset; data reset complete.
-- 🟥SeaEagle            -🟡Model awaiting reset; data reset complete.
+- 🟩SS-N-3|P-35         -🟢Completed, feedback needed
+- 🟩3M44 Progress       -🟢Completed, feedback needed
+- 🟥YJ-83K              -🔴Model reset, data reset.
+- 🟥SeaEagle            -🔴Model reset, data reset.
 - 🟥SS-N-2              -🔵
 - 🟥BGM-109 Tomahawk    -🔵
 - 🟥P-500/SS-N-12       -🔵
 - 🟥P-700/SS-N-19       -🔵
 - 🟥AGM-119 Penguin     -🔵
-- 🟥YJ-81K              -🔵
+- 🟩YJ-8                -🟢Completed, feedback needed
+- 🟩YJ-81K              -🟢Completed, feedback needed
 
 ## Anti-Radiation
 
