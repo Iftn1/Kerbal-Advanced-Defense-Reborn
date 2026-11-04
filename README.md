@@ -57,7 +57,7 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 |  |  |  |  |  |  |  |  |
 
 ### Anti-Ship
-|  |  |  |  |  |  |  |  |
+| P-35 | 3M44 | YJ-8 | YJ-81 |  |  |  |  |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |  |
 
