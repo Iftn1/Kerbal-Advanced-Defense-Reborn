@@ -57,7 +57,7 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 |  |  |  |  |  |  |  |  |
 
 ### Anti-Ship
-| P-35 | 3M44 | YJ-8 | YJ-81 |  |  |  |  |
+| P-35 | YJ-8 | YJ-81 |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |  |
 
@@ -92,7 +92,7 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 |  | Tsar Bomba |  | | | | | |
 | Nuclear Warhead | W88 | | | | | | |
 |  |  |  |  |  |  |  |  |
-| Nuclear Missile | AIM-26A | RIM-8B |  |  |  |  |  |
+| Nuclear Missile | AIM-26A | RIM-8B | 3M44 |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
 ### Radars
