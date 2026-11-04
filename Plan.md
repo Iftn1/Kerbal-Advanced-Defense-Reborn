@@ -32,7 +32,8 @@
 - 🟩9M37M Strela-10     -🟢Completed, feedback needed
 - 🟥S-125|M-1           -🟡  
 - 🟥RIM-2 Terrier       -🟡
-- 🟥RIM-8 Talos         -🟡
+- 🟩RIM-8A Talos        -🟢Completed, need more test
+- 🟩RIM-8B Talos        -🟢Completed, need more test
 - 🟥RIM-24 Tartar       -🟡    
 - 🟥FB-10A              -🔵
 - 🟥RIM-8               -🔵
