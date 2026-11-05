@@ -129,8 +129,8 @@
 - 🟥R-27EP              -🔵
 - 🟥R-27EA              -🔵
 
-- 🟥R-23R               -🟡
-- 🟥R-23T               -🟡
+- 🟩R-23R               -🟢Completed, feedback needed
+- 🟩R-23T               -🟢Completed, feedback needed
 - 🟥R-24R               -🟡
 - 🟥R-24T               -🟡
 - 🟥R-24M               -🟡
@@ -181,7 +181,7 @@
 - 🟥MK-17|MK-24         -🔵
 - 🟩MK-28FI             -🟢Completed, feedback needed
 - 🟩B-41|MK-41          -🟢Completed, feedback needed
-- 🟥B-53|MK-53          -🔵
+- 🟩B-53|MK-53          -🟢Completed, feedback needed
 - 🟥B-57|MK-57          -🔵
 - 🟥B-83                -🔵
 - 🟥RDS-4               -🔵
