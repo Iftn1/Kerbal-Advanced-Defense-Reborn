@@ -30,11 +30,11 @@
 - 🟩Type 81 Tan-SAM     -🟢Completed, feedback needed
 - 🟩9M38M1 Buk          -🟢Completed, feedback needed
 - 🟩9M37M Strela-10     -🟢Completed, feedback needed
-- 🟥S-125|M-1           -🟡  
+- 🟥S-125|M-1           -🟡
 - 🟥RIM-2 Terrier       -🟡
 - 🟩RIM-8A Talos        -🟢Completed, need more test
 - 🟩RIM-8B Talos        -🟢Completed, need more test
-- 🟥RIM-24 Tartar       -🟡    
+- 🟥RIM-24 Tartar       -🟡
 - 🟥FB-10A              -🔵
 - 🟥RIM-8               -🔵
 - 🟥RIM-24              -🔵
@@ -133,7 +133,7 @@
 - 🟩R-23T               -🟢Completed, feedback needed
 - 🟥R-24R               -🟡
 - 🟥R-24T               -🟡
-- 🟥R-24M               -🟡
+- 🟥R-24RM               -🟡
 
 - 🟥RS-1U               -🔵
 - 🟥RS-2US              -🔵
