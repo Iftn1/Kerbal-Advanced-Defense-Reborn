@@ -77,7 +77,7 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 ### Air-to-Air
 | IR (Fox2) | PL-5EII | Red Top | R-3S | R-60MK | R-60K | R-23T |  |
 |---|---|---|---|---|---|---|---|
-| | R-40T | | | | | | |
+| | R-40T | AIM-9B | | | | | |
 | | R-40TD | | | | | | |
 | SARH (Fox1) | AIM-7A | AIM-7C | AIM-7D | AIM-7E | AIM-7E2 | AIM-7F | AIM-7M |
 | | R-3R | R-40R | R-40RD | AIM-26B | R-23R |  | |

@@ -71,6 +71,7 @@
 
 - 🟩CM-102              -🟢Completed, feedback needed
 - 🟩Kh-58U              -🟢Completed, feedback needed
+- 🟥AIM-9C|AGM-122A     -🟡
 
 ## Air-to-Ground
 
@@ -96,6 +97,19 @@
 - 🟩AIM-7E2             -🟢Completed, feedback needed
 - 🟩AIM-7F              -🟢Completed, feedback needed
 - 🟩AIM-7M              -🟢Completed, feedback needed
+
+- 🟩AIM-9B              -🟢Completed, feedback needed
+- 🟥AIM-9D              -🟡
+- 🟥AIM-9E              -🟡
+- 🟥AIM-9B FGW.2        -🟡
+- 🟥AIM-9G              -🟡
+- 🟥AIM-9H              -🟡
+- 🟥AIM-9J              -🟡
+- 🟥AIM-9P              -🟡
+- 🟥AIM-9P-3            -🟡
+- 🟥AIM-9L              -🟡
+- 🟥AIM-9M              -🟡
+- 🟥AIM-9X              -🟡
 
 - 🟩AIM-26A             -🟢Completed, feedback needed
 - 🟩AIM-26B             -🟢Completed, feedback needed
@@ -133,7 +147,7 @@
 - 🟩R-23T               -🟢Completed, feedback needed
 - 🟥R-24R               -🟡
 - 🟥R-24T               -🟡
-- 🟥R-24RM               -🟡
+- 🟥R-24RM              -🟡
 
 - 🟥RS-1U               -🔵
 - 🟥RS-2US              -🔵
