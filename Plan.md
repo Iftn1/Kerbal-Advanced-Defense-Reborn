@@ -117,6 +117,7 @@
 - 🟥R-77                -🔵
 - 🟥R-77-1              -🔵
 - 🟥R-77M               -🔵
+- 🟥R-77-PD             -🔵
 
 - 🟥R-73                -🔴Model reset, data reset.
 - 🟥R-74                -🔵
