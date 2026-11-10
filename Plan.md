@@ -145,9 +145,10 @@
 
 - 🟩R-23R               -🟢Completed, feedback needed
 - 🟩R-23T               -🟢Completed, feedback needed
-- 🟥R-24R               -🟡
-- 🟥R-24T               -🟡
-- 🟥R-24RM              -🟡
+- 🟩R-24R               -🟢Completed, feedback needed
+- 🟩R-24RM              -🟢Completed, feedback needed
+- 🟩R-24T               -🟢Completed, feedback needed
+- 🟩R-24TM              -🟢Completed, feedback needed
 
 - 🟥RS-1U               -🔵
 - 🟥RS-2US              -🔵
