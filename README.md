@@ -106,6 +106,11 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 |---|---|---|---|---|---|---|---|
 | | | | | | | | |
 
+### Missile Launchers
+| B-187/189 |  |  |  | | | | |
+|---|---|---|---|---|---|---|---|
+|  | | | | | | | |
+
 ## Notes
 
 - This is a pre-release. Models and configs are being continuously refined.
