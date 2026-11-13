@@ -99,6 +99,7 @@
 - 🟩AIM-7M              -🟢Completed, feedback needed
 
 - 🟩AIM-9B              -🟢Completed, feedback needed
+- 🟥AIM-9C              -🟡
 - 🟥AIM-9D              -🟡
 - 🟥AIM-9E              -🟡
 - 🟥AIM-9B FGW.2        -🟡
@@ -114,10 +115,10 @@
 - 🟩AIM-26A             -🟢Completed, feedback needed
 - 🟩AIM-26B             -🟢Completed, feedback needed
 
-- 🟥R-77                -🔵
-- 🟥R-77-1              -🔵
-- 🟥R-77M               -🔵
-- 🟥R-77-PD             -🔵
+- 🟥R-77                -🟡
+- 🟥R-77-1              -🟡
+- 🟥R-77M               -🟡
+- 🟥R-77-PD             -🟡
 
 - 🟥R-73                -🔴Model reset, data reset.
 - 🟥R-74                -🔵
@@ -211,7 +212,6 @@
 
 - 🟩B-187               -🟢Completed, feedback needed
 - 🟥ZIF-101             -🟡
-
 
 ## Gun | machine gun | Turret | Shells
 
