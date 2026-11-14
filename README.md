@@ -54,6 +54,18 @@
 
 Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 
+## Notes
+
+- This is a pre-release. Models and configs are being continuously refined.
+- Some missiles require radar or targeting pod equipment on the launch craft (SARH, laser-guided types).
+- Feedback and contributions are welcome!
+- [查看目前进度|Current Progress](Plan.markdown)
+
+## Localization
+
+- English (en-us)
+- 简体中文 (zh-cn)
+
 ## Current Arsenal
 
 ### Surface-to-Air
@@ -122,15 +134,3 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 | B-187/189 |  |  |  | | | | |
 |---|---|---|---|---|---|---|---|
 |  | | | | | | | |
-
-## Notes
-
-- This is a pre-release. Models and configs are being continuously refined.
-- Some missiles require radar or targeting pod equipment on the launch craft (SARH, laser-guided types).
-- Feedback and contributions are welcome!
-- [查看目前进度|Current Progress](Plan.markdown)
-
-## Localization
-
-- English (en-us)
-- 简体中文 (zh-cn)
