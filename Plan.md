@@ -31,10 +31,14 @@
 - 🟩9M38M1 Buk          -🟢Completed, feedback needed
 - 🟩9M37M Strela-10     -🟢Completed, feedback needed
 - 🟥S-125|M-1           -🟡
-- 🟥RIM-2 Terrier       -🟡
+- 🟩RIM-2C Terrier      -🟢Completed, feedback needed
+- 🟩RIM-2D Terrier      -🟢Completed, feedback needed
+- 🟩RIM-2E Terrier      -🟢Completed, feedback needed
 - 🟩RIM-8A Talos        -🟢Completed, need more test
 - 🟩RIM-8B Talos        -🟢Completed, need more test
-- 🟥RIM-24 Tartar       -🟡
+- 🟩RIM-24A Tartar      -🟢Completed, feedback needed
+- 🟩RIM-24B Tartar      -🟢Completed, feedback needed
+- 🟩RIM-24C Tartar      -🟢Completed, feedback needed
 - 🟥FB-10A              -🔵
 - 🟥RIM-8               -🔵
 - 🟥RIM-24              -🔵

@@ -59,8 +59,8 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 ### Surface-to-Air
 | 9M33M3 Osa | 9M38M1 | Type81 Tan-Sam | IRIS-T SLM | IRIS-T SLS | Rapier MK1 | Rapier Mk1E | Rapier Mk2 |
 |---|---|---|---|---|---|---|---|
-| FIM-92K | MIM-104E Patriot (PAC-2) | S-300PS 5V55R | RIM-8A |  |  |  |  |
-| 9M37M |  |  |  |  |  |  |  |
+| FIM-92K | MIM-104E Patriot (PAC-2) | S-300PS 5V55R | RIM-8A | RIM-24A | RIM-24B | RIM-24C | RIM-2C |
+| 9M37M | RIM-2E |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
 ### Surface-to-Surface
@@ -104,7 +104,7 @@ Place the `KerbalAdvancedDefenseReborn` folder into your `GameData` directory.
 |  | Tsar Bomba |  | | | | | |
 | Nuclear Warhead | W88 | | | | | | |
 |  |  |  |  |  |  |  |  |
-| Nuclear Missile | AIM-26A | RIM-8B | 3M44 |  |  |  |  |
+| Nuclear Missile | AIM-26A | RIM-8B | 3M44 | RIM-2D |  |  |  |
 |  |  |  |  |  |  |  |  |
 
 ### Radars
