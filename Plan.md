@@ -30,10 +30,15 @@
 - 🟩Type 81 Tan-SAM     -🟢Completed, feedback needed
 - 🟩9M38M1 Buk          -🟢Completed, feedback needed
 - 🟩9M37M Strela-10     -🟢Completed, feedback needed
-- 🟥S-125|M-1           -🟡  
-- 🟥RIM-2 Terrier       -🟡
-- 🟥RIM-8 Talos         -🟡
-- 🟥RIM-24 Tartar       -🟡    
+- 🟥S-125|M-1           -🟡
+- 🟩RIM-2C Terrier      -🟢Completed, feedback needed
+- 🟩RIM-2D Terrier      -🟢Completed, feedback needed
+- 🟩RIM-2E Terrier      -🟢Completed, feedback needed
+- 🟩RIM-8A Talos        -🟢Completed, need more test
+- 🟩RIM-8B Talos        -🟢Completed, need more test
+- 🟩RIM-24A Tartar      -🟢Completed, feedback needed
+- 🟩RIM-24B Tartar      -🟢Completed, feedback needed
+- 🟩RIM-24C Tartar      -🟢Completed, feedback needed
 - 🟥FB-10A              -🔵
 - 🟥RIM-8               -🔵
 - 🟥RIM-24              -🔵
@@ -54,20 +59,23 @@
 ## Anti-Ship | Cruise Missile
 
 - 🟥AGM-84D             -🟡Model reset complete, data reset complete, currently testing.
-- 🟥SS-N-3|P-35         -🟡Model awaiting reset; data reset complete.
-- 🟥YJ-83K              -🟡Model awaiting reset; data reset complete.
-- 🟥SeaEagle            -🟡Model awaiting reset; data reset complete.
+- 🟩SS-N-3|P-35         -🟢Completed, feedback needed
+- 🟩3M44 Progress       -🟢Completed, feedback needed
+- 🟥YJ-83K              -🔴Model reset, data reset.
+- 🟥SeaEagle            -🔴Model reset, data reset.
 - 🟥SS-N-2              -🔵
 - 🟥BGM-109 Tomahawk    -🔵
 - 🟥P-500/SS-N-12       -🔵
 - 🟥P-700/SS-N-19       -🔵
 - 🟥AGM-119 Penguin     -🔵
-- 🟥YJ-81K              -🔵
+- 🟩YJ-8                -🟢Completed, feedback needed
+- 🟩YJ-81K              -🟢Completed, feedback needed
 
 ## Anti-Radiation
 
 - 🟩CM-102              -🟢Completed, feedback needed
 - 🟩Kh-58U              -🟢Completed, feedback needed
+- 🟥AIM-9C|AGM-122A     -🟡
 
 ## Air-to-Ground
 
@@ -94,12 +102,27 @@
 - 🟩AIM-7F              -🟢Completed, feedback needed
 - 🟩AIM-7M              -🟢Completed, feedback needed
 
+- 🟩AIM-9B              -🟢Completed, feedback needed
+- 🟥AIM-9C              -🟡
+- 🟥AIM-9D              -🟡
+- 🟥AIM-9E              -🟡
+- 🟥AIM-9B FGW.2        -🟡
+- 🟥AIM-9G              -🟡
+- 🟥AIM-9H              -🟡
+- 🟥AIM-9J              -🟡
+- 🟥AIM-9P              -🟡
+- 🟥AIM-9P-3            -🟡
+- 🟥AIM-9L              -🟡
+- 🟥AIM-9M              -🟡
+- 🟥AIM-9X              -🟡
+
 - 🟩AIM-26A             -🟢Completed, feedback needed
 - 🟩AIM-26B             -🟢Completed, feedback needed
 
-- 🟥R-77                -🔵
-- 🟥R-77-1              -🔵
-- 🟥R-77M               -🔵
+- 🟥R-77                -🟡
+- 🟥R-77-1              -🟡
+- 🟥R-77M               -🟡
+- 🟥R-77-PD             -🟡
 
 - 🟥R-73                -🔴Model reset, data reset.
 - 🟥R-74                -🔵
@@ -126,11 +149,12 @@
 - 🟥R-27EP              -🔵
 - 🟥R-27EA              -🔵
 
-- 🟥R-23R               -🟡
-- 🟥R-23T               -🟡
-- 🟥R-24R               -🟡
-- 🟥R-24T               -🟡
-- 🟥R-24M               -🟡
+- 🟩R-23R               -🟢Completed, feedback needed
+- 🟩R-23T               -🟢Completed, feedback needed
+- 🟩R-24R               -🟢Completed, feedback needed
+- 🟩R-24RM              -🟢Completed, feedback needed
+- 🟩R-24T               -🟢Completed, feedback needed
+- 🟩R-24TM              -🟢Completed, feedback needed
 
 - 🟥RS-1U               -🔵
 - 🟥RS-2US              -🔵
@@ -178,7 +202,7 @@
 - 🟥MK-17|MK-24         -🔵
 - 🟩MK-28FI             -🟢Completed, feedback needed
 - 🟩B-41|MK-41          -🟢Completed, feedback needed
-- 🟥B-53|MK-53          -🔵
+- 🟩B-53|MK-53          -🟢Completed, feedback needed
 - 🟥B-57|MK-57          -🔵
 - 🟥B-83                -🔵
 - 🟥RDS-4               -🔵
@@ -187,6 +211,11 @@
 - 🟩W88                 -🟢Completed, feedback needed
 - 🟥W48                 -🔵
 - 🟥ICBMSS-6“Sapwood”   -🔵
+
+## Missile Launchers
+
+- 🟩B-187               -🟢Completed, feedback needed
+- 🟥ZIF-101             -🟡
 
 ## Gun | machine gun | Turret | Shells
 
