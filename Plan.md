@@ -140,14 +140,14 @@
 - 🟥R-33                -🔵
 - 🟥R-33S               -🔵
 
-- 🟥R-27R               -🔵
-- 🟥R-27T               -🔵
-- 🟥R-27P               -🔵
-- 🟥R-27A               -🔵
-- 🟥R-27ER              -🔵
-- 🟥R-27ET              -🔵
-- 🟥R-27EP              -🔵
-- 🟥R-27EA              -🔵
+- 🟥R-27R               -🟡
+- 🟥R-27T               -🟡
+- 🟥R-27P               -🟡
+- 🟥R-27A               -🟡
+- 🟥R-27ER              -🟡
+- 🟥R-27ET              -🟡
+- 🟥R-27EP              -🟡
+- 🟥R-27EA              -🟡
 
 - 🟩R-23R               -🟢Completed, feedback needed
 - 🟩R-23T               -🟢Completed, feedback needed
