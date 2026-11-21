@@ -75,6 +75,9 @@
 
 - 🟩CM-102              -🟢Completed, feedback needed
 - 🟩Kh-58U              -🟢Completed, feedback needed
+- 🟥Kh-25MPU            -🔵
+- 🟥Kh-25MP             -🔵
+- 🟥Kh-27PS             -🔵
 - 🟥AIM-9C|AGM-122A     -🟡
 
 ## Air-to-Ground
@@ -234,8 +237,10 @@
 - 🟥RP-S radar          -🔵
 - 🟥RP-SM radar         -🔵
 
+- 🟥RP-9 radar          -🔵
 - 🟥RP-11 radar         -🔵
 - 🟥RP-15 radar         -🔵
+- 🟥RP-26 radar         -🔵
 - 🟥RP-26M radar        -🔵
 
 - 🟩RP-25 radar         -🟢Completed, feedback needed
